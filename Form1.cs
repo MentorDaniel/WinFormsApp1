@@ -21,5 +21,15 @@ namespace WinFormsApp1
         {
 
         }
+
+        private void lblMessage_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnMessageHandler_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
